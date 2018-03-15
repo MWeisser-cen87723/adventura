@@ -43,7 +43,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.github.martinweisser.adventura.main.Start</mainClass>
+							<mainClass>com.github.martinweisser.adventura.ui.Application</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

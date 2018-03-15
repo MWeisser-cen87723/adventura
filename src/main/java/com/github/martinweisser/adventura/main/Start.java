@@ -4,7 +4,7 @@ package com.github.martinweisser.adventura.main;
 
 
 import com.github.martinweisser.adventura.logika.*;
-import com.github.martinweisser.adventura.uiText.TextoveRozhrani;
+import com.github.martinweisser.adventura.ui.TextoveRozhrani;
 
 /*******************************************************************************
  * Třída {@code Start} je hlavní třídou projektu,
